@@ -12,15 +12,13 @@ During the problem-solving process, you are required to constantly test your sol
 
 Keep in mind the general guidelines above when you conduct data analysis in this lab and in the future. You need to learn this scientific research methodology if you want to become a successful data analyst. For a detailed explanation of the iterative data analysis workflow, watch [this YouTube video](https://www.youtube.com/watch?v=xOomNicqbkk).
 
-**You are required to watch the above video before proceeding.**
-
 ## Getting Started
 
-Launch `main.ipynb`, `challenge-1.ipynb`, `challenge-2.ipynb`, and `challenge-3.ipynb` in the `your-code` directory of this lab. Take the exercises following the step-by-step instructions.
+Launch `main.ipynb` in the `your-code` directory of this lab. Take the exercises following the step-by-step instructions.
 
 ## Deliverables
 
-* `challenge-1.ipynb`, `challenge-2.ipynb` and `challenge-3.ipynb` are **mandatory challenges** that you must submit and will help you acquire the basics of dataframe calculation and transformation. 
+* `main.ipynb`is a **mandatory challenge** that you must submit and will help you acquire the basics of dataframe calculation and transformation. 
 
 ## Submission
 
